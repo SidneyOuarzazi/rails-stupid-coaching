@@ -1,0 +1,30 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+#question {
+  border:1px solid lightgrey;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  margin-right: 0px;
+  padding: 8px;
+  width: 300px;
+}
+
+#submit {
+  background-color: rgb(10, 10, 233);
+  border:1px solid rgb(10, 10, 233);
+  color: white;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  margin-left: -7px;
+  padding: 8px;
+}
